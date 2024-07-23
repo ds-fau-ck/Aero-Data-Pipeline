@@ -9,4 +9,5 @@ Tech Stack:
 7.	Glue job
 8.	Readshift 
 9.	SNS for notifications
-
+Aero-Data-Ingestion Pipeline
+![Airline_data_ingestion_AWS drawio](https://github.com/user-attachments/assets/3fd3402e-1c9d-4a52-b51e-40bc58af6836)
